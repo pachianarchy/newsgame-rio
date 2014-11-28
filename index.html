@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset='UTF-8'/>
+        <title>Newsgame Rio - Patrícia Machado</title>
+        <style>
+            body{
+                margin: auto;
+                width: 480px;
+            }
+            #readme{
+                white-space: pre;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Newsgame Rio</h1>
+        <h3>Projeto prático/Monografia para a graduação em Comunicação Social - Jornalismo (UFRJ)</h3>
+        <br><br>
+        <h3>Downloads do jogo por sistema operacional:</h3>
+        <ul>
+            <li><a href="download/NewsgameRio-1.0-linux.tar.bz2" title="linux">Linux</a></li>
+            <li><a href="download/NewsgameRio-1.0-mac.zip" title="MAC">MAC</a></li>
+            <li><a href="download/NewsgameRio-1.0-win" title="windows">Windows</a></li>
+            <li><a href="download/NewsgameRio-1.0-all.zip" title="desktop">Versão desktop</a></li>
+        </ul>
+        <h3>Instruções</h3>
+        <div id="readme">
+        </div>
+        <script src="jquery-2.1.1.min.js"></script>
+        <script>
+            $("#readme").load("README.md");
+        </script>
+    </body>
+</html>
