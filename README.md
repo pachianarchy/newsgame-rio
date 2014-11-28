@@ -7,7 +7,7 @@ Para jogar:
 
 1º passo - Baixe o .rar do jogo de acordo com o sistema operacional do seu computador.
 
-2º passo - Descompactue a pasta com os arquivos.
+2º passo - Descompactue (extrair) a pasta com os arquivos.
 
 3º passo - Dentro na pasta, clique em NewsgameRio.exe
 
